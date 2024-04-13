@@ -34,6 +34,7 @@ Software engineers need to create detailed plans and design blueprints on softwa
 
 ### 1.6 User stories:
 - https://arxiv.org/html/2403.09442v1#S1
+- https://paperswithcode.com/paper/automated-user-story-generation-with-test
 
 ### 1.3 Examples/Papers
 -  Impact of Large Language Models on Generating
