@@ -14,7 +14,7 @@ errors in software specifications, which are formal declarations of software sys
 errors in software specifications, including logical inconsistencies, type errors, and misuse of programming constructs
 - https://arxiv.org/pdf/2310.12425.pdf
 
-### 1.2 Requirement classification
+### 1.3 Requirement classification
 - Requirement classification refers to the process of categorizing software requirements into different classes or types. Software requirements typically encompass both functional and non-functional requirements. Functional requirements outline the functionalities and behaviors the
 software should achieve, while non-functional requirements
 cover broader system attributes such as performance, security, reliability, and maintainability. Through requirement
@@ -25,9 +25,12 @@ comprehend various types of requirements.
 - https://ieeexplore.ieee.org/document/10256174
 - https://ieeexplore.ieee.org/document/10260874
 
-### 1.2 Software Design
+### 1.4 Software Design
 - Involves the process of defining the structure, components, functionalities, interfaces and their relationships within a software system.
 Software engineers need to create detailed plans and design blueprints on software requirements and specifications to ensure that the software system can meet the users needs and expectation
+
+### 1.5 GUI layout
+- https://dl.acm.org/doi/10.1145/3593230
 
 ### 1.3 Examples/Papers
 -  Impact of Large Language Models on Generating
@@ -61,7 +64,9 @@ legacy system maintenance.
 - codeeditor
 - 
 
-### 2.3 Code Refinement
+### 2.5 Code Search
+
+### 2.6 Code Refinement
 Code refinement is the process of altering a specific piece of code, which might contain errors
 or be overly complex, with the goal of transforming a flawed
 function into one that functions correctly
@@ -70,6 +75,16 @@ function into one that functions correctly
 - GraphCodeBERT
 - SPT-Code
 
-#### 2.4 Examples/Papers
+#### 2.7 Examples/Papers
 - codeeditor
 - 
+
+### 2.8 Code Completion
+
+### 2.9 Program Synthesis
+Program synthesis refers to the automated process of generating computer programs based on high-level specifications
+or requirements. The objective of this process is to automate typically complex and time-consuming manual software
+development tasks by allowing machines to generate code based on specifications provided by users.
+
+- https://arxiv.org/pdf/2112.02969.pdf
+- Synthesize, Execute, Debug (SED) approach: https://arxiv.org/pdf/2304.10423.pdf
