@@ -32,6 +32,9 @@ Software engineers need to create detailed plans and design blueprints on softwa
 ### 1.5 GUI layout
 - https://dl.acm.org/doi/10.1145/3593230
 
+### 1.6 User stories:
+- https://arxiv.org/html/2403.09442v1#S1
+
 ### 1.3 Examples/Papers
 -  Impact of Large Language Models on Generating
 Software Specifications: https://arxiv.org/pdf/2306.03324.pdf
