@@ -1,4 +1,4 @@
-# Software Engineering Lifecycle
+# Software Development Lifecycle
 
 ## 1. Software Requirements and Design
 ### 1.1 Software Requirements
@@ -88,3 +88,21 @@ development tasks by allowing machines to generate code based on specifications 
 
 - https://arxiv.org/pdf/2112.02969.pdf
 - Synthesize, Execute, Debug (SED) approach: https://arxiv.org/pdf/2304.10423.pdf
+
+## 3. Software Testing
+### 3.1 Fault localization
+Fault localization is a critical process in software engineering that involves identifying the specific locations or elements
+in a software system where faults or bugs are present.
+
+### 3.2 Code Decompilation
+### 3.2 vulnerability Detection
+### 3.3 Unit Test Generation
+Test generation is the process of creating a set of test data or test cases for testing the adequacy of new or revised software programs.
+
+### Fuzzing 3.4 Fuzzing
+Fuzzing is an automated software testing method that injects invalid, malformed, or unexpected inputs into a system
+to reveal software defects and vulnerabilities
+
+### GUI Testing
+ GUI Testing
+
