@@ -120,3 +120,10 @@ of post-delivery software modification, aiming to rectify errors and meet emergi
 
 ## 6. Evaluation
 ### 6.1 Benchmark
+- HumanEval
+- HumanEval-X
+- CodeXGLUE
+- EvalPlus
+- CrossCodeBench
+- ClassEval
+- EvalGPTFix
